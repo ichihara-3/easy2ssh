@@ -11,6 +11,12 @@ Before using this tool, you should set up an instances.
 $ bash easy2s.sh [INSTANCE_NAME]
 ```
 
+## requirements
+
+* awscli
+* open-ssh
+* sed
+
 ## TODO
 * to enable to use instaance-id,
 * to add only writing mode 
